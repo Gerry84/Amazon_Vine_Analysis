@@ -24,3 +24,9 @@ In conclusion, there are a few different points to call out about the Vine paid 
 
 # Storage in AWS
 Since the dataset in this analysis is so large, it is important to store it on a cloud based server. This data is uploaded to the AWS using pgAdmin. Below are screenshots of the dataset stored in various SQL tables in pgAdmin.
+
+
+![Dashboard](https://github.com/Gerry84/Amazon_Vine_Analysis/blob/main/images/customers_table.PNG)
+![Dashboard](https://github.com/Gerry84/Amazon_Vine_Analysis/blob/main/images/products_table.PNG)
+![Dashboard](https://github.com/Gerry84/Amazon_Vine_Analysis/blob/main/images/review_id_table.PNG)
+![Dashboard](https://github.com/Gerry84/Amazon_Vine_Analysis/blob/main/images/vine_table.PNG)
